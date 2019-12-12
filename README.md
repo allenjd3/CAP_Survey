@@ -5,3 +5,4 @@ Goals:
 2. Need to be able to track CAP survey signatures/ due dates
 3. Need to be able to assign CAP surveys to employees.
 
+Need to start building functionality. Main Actions done.
